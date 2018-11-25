@@ -36,21 +36,21 @@ Esta función se encarga de mostrar los alumnos. Una vez buscas un alumno y elig
 
 
 
-##Gestión de líderes
+## Gestión de líderes
 
 
 Esta función se encarga de añadir o cambiar el líder de un equipo. El sistema solicita el número de equipo y el DNI del Alumno para modificar el líder. Si el equipo no tiene líder se añade al alumno del DNI como líder, y si el equipo ya tiene líder se cambian los datos del líder mediante el DNI.
 
 
 
-##Guardar copia de seguridad
+## Guardar copia de seguridad
 
 
 Esta función se encarga de guardar los datos en un fichero. El sistema solicita el nombre del fichero donde se quiere guardar la copia de seguridad. Si el fichero no existe, crea la copia de seguridad con ese nombre, mientras que si no existe ese fichero, se sobrescribe la información en el fichero.
 
 
 
-##Cargar copia de seguridad
+## Cargar copia de seguridad
 
 
 Esta función se encarga de cargar los datos de un fichero. El sistema solicita el nombre del fichero del que se va a cargar la información. Si el fichero no existe, no se carga ningún fichero, si existe se cargan los datos.
